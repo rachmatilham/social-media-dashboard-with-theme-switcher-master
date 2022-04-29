@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page on Frontend Mentor]()
+- Solution URL: [Solution page on Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-with-theme-switcher-r1pEgBtSq)
 - Live Site URL: [Github Pages](https://rachmatilham.github.io/social-media-dashboard-with-theme-switcher-master/)
 
 ## My process
