@@ -288,7 +288,7 @@ article h2 {
 }
 
 /* RESPONSIVE DESIGN */
-@media (min-width: 600px) {
+@media (min-width: 576px) {
   .bg-top {
     height: 245px;
   }
